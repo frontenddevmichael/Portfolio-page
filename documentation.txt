@@ -1,0 +1,71 @@
+1. Homepage
+Professional header with your name and navigation menu.
+
+Hero section with a background image and a clear call-to-action button.
+
+Design that reflects your personal brand.
+
+2. About Me
+Brief background and career overview.
+
+Skills summary, career goals, and web development interests.
+
+Responsive, engaging layout.
+
+3. Projects
+Include at least two JavaScript projects.
+
+Present in a visually appealing format (e.g., grid, carousel).
+
+Include: title, description, screenshots/demo, technologies, your role, links to live demo/code repository.
+
+Project filtering (by category/technology).
+
+4. Skills
+Display technical skills with icons or progress bars.
+
+Categorize (Frontend, Design Tools, etc.).
+
+Highlight key strengths relevant to the job.
+
+5. Experience
+List work experience, internships, or relevant activities (include New Horizons ICT Resource Center).
+
+For each, mention: organization, role, duration, and key achievements.
+
+6. Contact Form
+Required fields: name, email, message.
+
+JavaScript validation with success/error feedback.
+
+7. Responsive Design
+Fully responsive layout for all devices (desktop, tablet, mobile).
+
+Proper media query usage to ensure consistency across screen sizes.
+
+8. Footer
+Display dynamic date/time with JavaScript.
+
+Include copyright info and social media links (optional).
+
+Optional "Back to top" button.
+
+Evaluation Criteria
+Visual Design & UX (25%)
+
+Code Quality & Organization (20%)
+
+Project Integration (25%)
+
+Responsiveness (15%)
+
+Functionality (15%)
+
+Submission Requirements
+GitHub repo with source code.
+
+Live site on GitHub Pages, Netlify, or Vercel.
+
+README with project overview, features, technologies, setup instructions, challenges/solutions.
+
+This summary should guide you to build a functional and visually appealing portfolio site that meets your project criteria.
