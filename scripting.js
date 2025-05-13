@@ -1,3 +1,12 @@
+window.addEventListener('load' , function (){
+    const loader = this.document.getElementById('loader');
+        loader.style.opacity = '0';
+            loader.style.pointerEvents = 'none';
+            setTimeout(function(){
+                loader.remove()
+            },500)
+})
+
 window.addEventListener("load", function () {
     const AboutPage = document.querySelector("#About");
     const about = document.querySelector("#about");
